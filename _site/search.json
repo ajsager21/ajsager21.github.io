@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AJ Sager’s Portfolio",
+    "section": "",
+    "text": "Hello! My name is Andrew (A.J.) Sager and I am orginally from San Diego, California. I am a current MSBA candidate at the UC Irvine Paul Merage School of Business. I completed my undergraduate degree at UC Irvine as well and majored in Quantitative Economics. Throughout my time at UC Irvine, I was also on the Division 1 Track and Field and Cross Country teams. I am passionate about data, sports, and environmental sustainability-all of which are interests and passions that are reflected within my portfolio. In my free time when I am not solving data problems or running, you might find me enjoying the outdoors through fishing, golfing, or hiking. I am also somewhat of a coffee connoisseur and am constantly on the search for the best cup of coffee in Irvine and San Diego."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nHello! My name is Andrew (A.J.) Sager and I am orginally from San Diego, California. I am a current MSBA candidate at the UC Irvine Paul Merage School of Business. I completed my undergraduate degree at UC Irvine as well and majored in Quantitative Economics. Throughout my time at UC Irvine, I was also on the Division 1 Track and Field and Cross Country teams. I am passionate about data, sports, and environmental sustainability-all of which are interests and passions that are reflected within my portfolio. In my free time when I am not solving data problems or running, you might find me enjoying the outdoors through fishing, golfing, or hiking. I am also somewhat of a coffee connoisseur and am constantly on the search for the best cup of coffee in Irvine and San Diego.\n\nprint(\"hi\")\n\nhi"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A"
+  }
+]
